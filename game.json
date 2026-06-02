@@ -1,0 +1,35 @@
+{
+  "name": "Super Mario maker",
+  "titleIds": [
+    "0005000010188000"
+  ],
+  "mods": [
+    {
+      "id": "new-mod",
+      "name": "E3 mod +",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "TixChris",
+      "description": "An addition to RFGuy's Mario Maker E3 Mod, now with some new editor icons, themes, and more! The custom tilesets has been made to capture the aesthetics of the original E3 2014 version of Mario Maker.",
+      "download": "https://gamebanana.com/mods/download/633435#FileInfo_1560566"
+    },
+    {
+      "id": "newmod2",
+      "name": "Urchins in mario maker",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Drewskiac",
+      "description": "This Mod adds Urchins to Super Mario Maker, These Urchins are only in the SMW and NSMBU Styles.\n\nI'm not really sure what else to put here, So lets just put this.\nTo make an Urchin, Take a Spiny, I suggest giving him a Mushroom, then Place him anywhere while in the water theme. In the Super Mario World Theme, The Urchins are Animated. I suggest using the Urchins in Mario World instead of NSMBU, Since the NSMBU Urchins are still a WIP, and look pretty low res, and are overall sub-par",
+      "download": "https://gamebanana.com/mods/download/50014#FileInfo_467621"
+    },
+    {
+      "id": "new-mod-2",
+      "name": "Accurate SMB1 graphics",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RFGuy",
+      "description": "This mod replaces the Super Mario Bros. 1 tilesets with ones used in the NES version instead of the ones used in Super Mario Maker. \n\n\nCredits to da cool girl for the No Shadow files used in this mod, and The Spriters Resource for the NES Super Mario Bros. assets.",
+      "download": "https://gamebanana.com/mods/download/629698#FileInfo_1548340"
+    }
+  ]
+}
