@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "Mario maker mods",
+  "author": "Cadenceave/Cabalt666",
+  "description": "Mario maker stuff",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/maker/game.json"
+    }
+  ]
+}}
